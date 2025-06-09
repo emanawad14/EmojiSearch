@@ -1,0 +1,2 @@
+# EmojiSearch
+Angular 19 
